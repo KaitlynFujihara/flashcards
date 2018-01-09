@@ -3,6 +3,11 @@ h2 {
   text-align:center;
 }
 
-.answers-hiding {
+.answers-hiding1 {
   display: none;
+}
+
+.prototype {
+  width:200px;
+  height:100px;
 }
